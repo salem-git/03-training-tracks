@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: salem
 
-Track Name: 
+Track Name: mobile application
 
-Track Description: 
+Track Description: developing a mobile application
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
